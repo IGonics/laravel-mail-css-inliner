@@ -45,7 +45,7 @@ This package requires Laravel 5.x
 ```json
 {
   "require": {
-        "igonics/laravel-mail-css-inliner": "~1.*"
+        "igonics/laravel-mail-css-inliner": "~1.0"
     }
 }
 ```
