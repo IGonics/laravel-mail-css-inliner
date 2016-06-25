@@ -7,13 +7,20 @@
         "name": "ggordon",
         "email": "ggordon@igonics.com"
     }],
+    "repositories": [
+        {
+            "type":"git",
+            "url":"https://github.com/gggordon/emogrifier.git"
+        }
+    ],
     "require": {
         "php": ">=5.3.0",
         "swiftmailer/swiftmailer": "~5.0",
-        "illuminate/support": "~5.2"
+        "illuminate/support": "~5.2",
+        "pelago/emogrifier": "1.0.1"
     },
     "autoload": {
-        "psr-4": {
+        "psr-0": {
             "IGonics\\LaravelMailCssInliner\\": "src/"
         }
     },
