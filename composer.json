@@ -2,7 +2,6 @@
     "name": "igonics/laravel-mail-css-inliner",
     "description": "Laravel 5 Mail CSS Inliner Service",
     "license": "MIT",
-    "version": "0.0.1",
     "authors": [{
         "name": "ggordon",
         "email": "ggordon@igonics.com"
