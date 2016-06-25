@@ -1,5 +1,4 @@
- <?php
-
+<?php
 namespace IGonics\LaravelMailCssInliner;
 
 use TijsVerkoyen\CssToInlineStyles\CssToInlineStyles;
